@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shoppingTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2016-07-14T15:17:16" hostname="CNrdzhao.local" time="0.03">
+  <properties/>
+  <testcase name="should_return_1_when_input_is_ITEM00000" classname="shoppingTest" time="0.01"/>
+  <testcase name="should_return_3_when_input_is_ITEM00000_dash_3" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_ITEM00000_when_input_is_ITEM00000_dash_3" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_9_dot_00_when_input_is_ITEM00000_dash_3" classname="shoppingTest" time="0.002"/>
+  <testcase name="should_return_coca_when_input_is_ITEM00000" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_2_when_input_is_ITEM00000_dash_2" classname="shoppingTest" time="0.001"/>
+  <testcase name="should_return_ITEM00000_when_input_is_ITEM00000" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_ITEM00000_when_input_is_ITEM00001" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_3_dot_00_when_input_is_ITEM00000" classname="shoppingTest" time="0.0"/>
+  <testcase name="should_return_basketball_when_input_is_ITEM00000" classname="shoppingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
