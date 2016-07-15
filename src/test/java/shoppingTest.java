@@ -52,7 +52,7 @@ public class shoppingTest {
 
     @Test
     public void should_return_9_dot_00_when_input_is_ITEM00000_dash_3() {
-        assertThat(shopping.getMoneyOfProduct("ITEM000000-3"), is(9.00));
+        assertThat(shopping.getMoneyOfProduct("ITEM000000"), is(9.00));
     }
 
 
